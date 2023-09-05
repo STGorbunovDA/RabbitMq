@@ -2,7 +2,7 @@
 using RabbitMQ.Client.Events;
 using System.Text;
 
-namespace Consumer
+namespace Consumer.Tesla
 {
     class Program
     {
